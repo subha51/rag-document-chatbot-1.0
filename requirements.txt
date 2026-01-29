@@ -8,3 +8,4 @@ python-dotenv==1.2.1
 streamlit==1.51.0
 faiss-cpu
 pypdf
+sentence-transformers
